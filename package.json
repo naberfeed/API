@@ -1,0 +1,28 @@
+{
+  "name": "api.naberfeed.com",
+  "version": "1.0.0",
+  "description": "Node.js/express.js scripts to handle requests to api.naberfeed.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://carlosmartinezvillar@gitlab.com/nabr/api.naberfeed.com.git"
+  },
+  "keywords": [
+    "Node.js",
+    "iOS",
+    "nabr"
+  ],
+  "author": "Carlos Martinez-Villar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/nabr/api.naberfeed.com/issues"
+  },
+  "homepage": "https://api.naberfeed.com",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongodb": "^2.2.25"
+  }
+}
